@@ -20,4 +20,4 @@ I'm a software engineer passionate about creating high-impact solutions that are
 I’m continually motivated to expand my knowledge and contribute to projects that challenge and grow my skillset. Whether it’s collaborating on innovative solutions, exploring new technologies, or optimizing systems for maximum efficiency, I’m eager to make a meaningful impact in the field of software engineering.
 
 ## 📫 Let’s Connect!
-I’d love to connect with fellow developers, data enthusiasts, and tech innovators. Feel free to explore my projects [on GitHub](https://github.com/ferdous2256) and connect with me on [LinkedIn](https://www.linkedin.com/in/md-ferdous-6b66521b4). Let's build something amazing together!
+I’d love to connect with fellow developers, data enthusiasts, and tech innovators. Feel free to explore my projects [on GitHub](https://github.com/ferdous2256) and connect with me on [LinkedIn](www.linkedin.com/in/md-ferdous-19389b359). Let's build something amazing together!
